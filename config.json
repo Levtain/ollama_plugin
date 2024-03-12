@@ -1,0 +1,4 @@
+{
+  ollama_host = "https://8366-2408-832e-8e5-7960-91db-f5c1-c75e-3391.ngrok-free.app/"
+  ollama_model = "gemma:7b" 
+}
